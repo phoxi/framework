@@ -1,6 +1,6 @@
 {
-    "name": "xcodenvi/framework",
-    "description": "A PHP8 Framework lib.",
+    "name": "phoxi/framework",
+    "description": "A PHP8 Framework.",
     "type": "library",
     "license": "MIT",
     "authors": [
