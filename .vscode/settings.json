@@ -1,9 +1,0 @@
-{
-    "files.autoSave": "afterDelay",
-    "editor.wordWrap": "on",
-    "files.exclude": {
-        "**/.dist": true,
-        "**/.idea": true,
-        "**/.vscode": true
-    }
-}
